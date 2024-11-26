@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Contactly\\API\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Contactly\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\Contactly\\API\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Contactly\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvycAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:30:53.886Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,21 +59,7 @@
               "RelativeToolTip": "Contactly\\Models\\AddContactRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:37:21.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Contactly\\API\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
-              "RelativeDocumentMoniker": "Contactly\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\Contactly\\API\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
-              "RelativeToolTip": "Contactly\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:30:53.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T17:37:21.692Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Contactly\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:29:06.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T17:29:06.14Z"
             },
             {
               "$type": "Document",
@@ -85,21 +83,19 @@
               "RelativeToolTip": "Contactly\\Data\\ContactlyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:27:12.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T17:27:12.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Contactly",
+              "Title": "Contactly.csproj",
               "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Contactly\\API\\Contactly\\Contactly\\Contactly.csproj",
               "RelativeDocumentMoniker": "Contactly\\Contactly.csproj",
               "ToolTip": "C:\\Users\\joshu\\source\\repos\\Contactly\\API\\Contactly\\Contactly\\Contactly.csproj",
               "RelativeToolTip": "Contactly\\Contactly.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T17:23:52.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T17:23:52.397Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Contactly\\Models\\Domain\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:23:45.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T17:23:45.619Z"
             }
           ]
         }

@@ -20,6 +20,7 @@ C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\C
 C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.csproj.CoreCompileInputs.cache
 C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.sourcelink.json
 C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\scopedcss\bundle\Contactly.styles.css
 C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\joshu\source\repos\Contactly\API\Contactly\Contactly\obj\Debug\net8.0\staticwebassets.development.json

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Contactly",
+    "\\API\\Contactly\\Contactly",
+    "\\API\\Contactly\\Contactly\\Models",
+    "\\API\\Contactly\\Contactly\\Models\\Domain",
+    "\\UI",
+    "\\UI\\contactly.web",
+    "\\UI\\contactly.web\\src",
+    "\\UI\\contactly.web\\src\\app"
+  ],
+  "SelectedNode": "\\UI\\contactly.web\\src\\app\\app.component.html",
+  "PreviewInSolutionExplorer": false
+}
